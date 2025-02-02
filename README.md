@@ -1,5 +1,7 @@
 # terraform-module-november-2024
 
+## Copy and paste following block
+
 ```hcl
 module "november-2024" {
   source  = "nazikmusa/november-2024/module"
